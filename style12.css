@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+}
+.okno{
+    margin: 0 auto;
+    background-color: white;
+    width: 80%;
+    height: 80%;
+    margin-top: 5%;
+}
+div{
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.okno1_1{
+    float: left;
+    width: 45%;
+    height: 100%;
+}
+.okno1_2{
+    float: left;
+    width: 45%;
+}
+.soc{
+    width: 250px;
+    height: 40px;
+}
+.okno1{
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+}
+.puk{
+    margin: auto;
+    height: 80%;
+    width: 80%;
+}
